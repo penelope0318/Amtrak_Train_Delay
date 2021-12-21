@@ -1,5 +1,5 @@
 ---
-title: "Intoduction of Amtrak Train Delay"
+title: "Introduction of Amtrak Train Delay"
 date: 2019-04-18
 categories:
   - blog
