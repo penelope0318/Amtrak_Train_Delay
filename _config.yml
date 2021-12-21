@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "MUSA 550"
 email:
-description: "Geospatial Data Science in Python"
+description: "Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python "
 twitter_username:
 github_username:
 minimal_mistakes_skin: default
@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Nick Hand"
+  name: "Xiaoyi Wu & Jing Zhang"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "need to fill"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
