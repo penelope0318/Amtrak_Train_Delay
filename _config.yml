@@ -56,30 +56,29 @@ plugins:
 
 author:
   name: "Xiaoyi Wu & Jing Zhang"
-  avatar: 
+  avatar: # "/assets/photo/avatar_jing.png" 
   bio: "Students in UPenn MUSA  and MCP program and this is the final project of MUSA550"
+  location: "Philadelphia, the United States"
   links:
     - label: "Xiaoyi's Email"
-      icon: "fas fa-fw fa-link"
-      url: "xiaoyiwu@design.upenn.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:xiaoyiwu@design.upenn.ed
     - label: "Jing's Email"
-      icon: "fas fa-fw fa-link"
-      url: "jing321@upenn.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:jing321@upenn.edu
 
-    - label: "Philadelphia"
-      icon: "fab fa-fw fa-github"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 
 # Defaults
