@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Amtrak & NJ Train Delay Analysis & Modeling"
-email: "Jing321@upenn.edu"
+email: 
 description: "Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python "
 twitter_username:
 github_username:
@@ -56,16 +56,18 @@ plugins:
 
 author:
   name: "Xiaoyi Wu & Jing Zhang"
-  avatar: "avadar_jing.png"
+  avatar: 
   bio: "Students in UPenn MUSA  and MCP program and this is the final project of MUSA550"
   links:
+    - label: "Xiaoyi's Email"
+      icon: "fas fa-fw fa-link"
+      url: "xiaoyiwu@design.upenn.edu"
     - label: "Jing's Email"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-      url: "https://github.com/"
-    - label: "GitHub"
+      url: "jing321@upenn.edu"
+
+    - label: "Philadelphia"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
 
 footer:
   links:
