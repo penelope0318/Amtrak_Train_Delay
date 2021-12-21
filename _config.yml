@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Amtrak & NJ Train Delay Analysis & Modeling"
-email:
+email: "Jing321@upenn.edu"
 description: "Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python Geospatial Data Science in Python "
 twitter_username:
 github_username:
