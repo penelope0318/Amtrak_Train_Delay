@@ -57,8 +57,8 @@ plugins:
 author:
   name: "Xiaoyi Wu & Jing Zhang"
   avatar: # "/assets/photo/avatar_jing.png" 
-  bio: "Students in UPenn MUSA  and MCP program and this is the final project of MUSA550"
-  location: "Philadelphia, the United States"
+  bio: "Students in UPenn MUSA and MCP program and this is the final project of MUSA550"
+  location: "Philadelphia, PA"
   links:
     - label: "Xiaoyi's Email"
       icon: "fas fa-fw fa-envelope-square"
