@@ -12,6 +12,14 @@ tags:
 
 
 ## Inspiration
+NJ Transit is the largest statewide public transportation system in the United States, operating bus, light rail, and commuter rail across New Jersey. Its nation's second-largest commuter rail network has 162 rail stations and serves over 300,000 customers every day. The real network connects the state's main business and employment centers and also helps to link the state to adjacent cities like Philadelphia and New York City. 
+
+Despite having been improved in recent years, NJ transit rail services have long been plagued by chronic delay issues. For example, in 2018 November and December, only 35% of rail trips arrived within 2mins of the scheduled arrival time, while almost 10% of the trips were delayed more than 10mins, accounting for 44,470 trips.
+ 
+
+
+
+
 - why we want analysis and predict
   - current problems (when & where & why)
   - benefit for riders (services quality) and transportation planner (profit)
