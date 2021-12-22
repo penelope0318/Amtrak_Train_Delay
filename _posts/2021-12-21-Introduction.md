@@ -28,21 +28,15 @@ In order to provide better and punctual services and thus avoid potential financ
 Delay in NYC Penn Station on Feb.3, 2020 <a href="https://pix11.com/news/local-news/manhattan/nearly-3-hour-delays-massive-crowds-continue-at-penn-station/">(Smith, 2020)</a>
  
 
-## Delay Dataset
+## Main Dataset
 There is an origin-destination train delay and cancelation data for NJ transit and Amtrak on <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. We used 2018 November and December delay data to analysis the pattern of delay and then built a machine learning model to the predict future delay. 
 
 
 
-- why we want analysis and predict
-  - current problems (when & where & why)
-  - benefit for riders (services quality) and transportation planner (profit)
-- Data source (show original data)
-  - use 2019/11 and 2019/12 data to do the analysis and modleing 
-
 ## Content
 The project will be seperated into following 2 sections:
-- Exploratory analysis: when, where, which (stops & lines) did the delay happen? 
-- Modeling: feature engineering, model selection, cross-validation. 
+- **Exploratory analysis**: when, where  did the delay usually happen? 
+- **Modeling**: methods involving feature engineering, model selection, cross-validation. 
 
   
 
