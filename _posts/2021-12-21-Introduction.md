@@ -18,7 +18,7 @@ Despite having been improved in recent years, NJ transit rail services have long
  
 
 ## Delay Dataset
-There is a original-destination train delay data for NJ transit and Amtrak trians on <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>, 
+There is an original-destination train delay and cancelation data for NJ transit and Amtrak on <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. This project intends to use 2018 November and December data to analysis the pattern of delay and then build a machine leaning model to predict future delay. 
 
 
 - why we want analysis and predict
@@ -28,9 +28,9 @@ There is a original-destination train delay data for NJ transit and Amtrak trian
   - use 2019/11 and 2019/12 data to do the analysis and modleing 
 
 ## Content
-The project will be seperated into following 2 sections
-- Exploratory analysis of the delay: this part intends to answer the questions like when, where, which (stops & lines) did the delay happen? 
-
+The project will be seperated into following 2 sections:
+- Exploratory analysis: when, where, which (stops & lines) did the delay happen? 
+- Modeling: feature engineering, model selection, cross-validation. 
 
   
 
