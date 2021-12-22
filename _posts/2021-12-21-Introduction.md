@@ -18,7 +18,7 @@ NJ Transit is the largest statewide public transportation system in the United S
 
 Despite having been improved in recent years, NJ transit rail services have long been plagued by chronic delay issues. For example, in 2018 November and December, only 35% of the rail trips arrived within 2 minutes of the scheduled arrival time, while almost 10% of the trips were delayed more than 10 minutes, accounting for 44,470 trips, and even almost 2,000 trips delayed from more than an hour! Such kind of large-scope train delay also potentially impact the surrounding bus services.
 
-In order to provide better and punctual services and thereby prevent potential financial and reputational damage,  we think it is vital for NJ transit operators do regular delay analysis to investigate when and where did the delay usually occurs, and then develop targeted strategies to alleviate the delay's frequency and severity.
+In order to provide better and punctual services and thus avoid potential financial and reputational harm, we believe it is vital for NJ transit operators to conduct regular delay analysis to investigate when and where did the delay typically occurs, and then develop targeted strategies to alleviate the frequency and severity of delays.
 
 
 ![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/penn-station-delays.jpeg)
