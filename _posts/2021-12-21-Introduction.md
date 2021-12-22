@@ -9,6 +9,8 @@ tags:
 ---
 
 ![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/penn-station-delays.jpeg)
+
+![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/penn-station-delays.jpeg)
 Delay in NYC Penn Station on Feb.3, 2020 <a href="https://pix11.com/news/local-news/manhattan/nearly-3-hour-delays-massive-crowds-continue-at-penn-station/">(Smith, 2020)</a>
 
 ## Inspiration
