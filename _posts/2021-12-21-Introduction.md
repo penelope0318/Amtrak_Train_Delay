@@ -14,10 +14,11 @@ Delay in NYC Penn Station on Feb.3, 2020 <a href="https://pix11.com/news/local-n
 ## Inspiration
 NJ Transit is the largest statewide public transportation system in the United States, operating bus, light rail, and commuter rail across New Jersey. Its nation's second-largest commuter rail network has 162 rail stations and serves over 300,000 customers every day. The real network connects the state's main business and employment centers and also helps to link the state to adjacent cities like Philadelphia and New York City. 
 
-Despite having been improved in recent years, NJ transit rail services have long been plagued by chronic delay issues. For example, in 2018 November and December, only 35% of rail trips arrived within 2mins of the scheduled arrival time, while almost 10% of the trips were delayed more than 10mins, accounting for 44,470 trips.
+Despite having been improved in recent years, NJ transit rail services have long been plagued by chronic delay issues. For example, in 2018 November and December, only 35% of rail trips arrived within 2mins of the scheduled arrival time, while almost 10% of the trips were delayed more than 10mins, accounting for 44,470 trips, which also potentially impact the surrounding bus services.
  
 
-
+## Delay Dataset
+There is a original-destination train delay data for NJ transit and Amtrak trians on <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>, 
 
 
 - why we want analysis and predict
@@ -27,6 +28,9 @@ Despite having been improved in recent years, NJ transit rail services have long
   - use 2019/11 and 2019/12 data to do the analysis and modleing 
 
 ## Content
-- analyssi of 
+The project will be seperated into following 2 sections
+- Exploratory analysis of the delay: this part intends to answer the questions like when, where, which (stops & lines) did the delay happen? 
+
+
   
 
