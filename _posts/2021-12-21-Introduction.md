@@ -9,7 +9,7 @@ tags:
 ---
 
 ![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/penn-station-delays.jpeg)
-Delay in NYC Penn Station <a href="https://pix11.com/news/local-news/manhattan/nearly-3-hour-delays-massive-crowds-continue-at-penn-station/">(Smith, 2020)</a>
+Delay in NYC Penn Station on Feb.3, 2020 <a href="https://pix11.com/news/local-news/manhattan/nearly-3-hour-delays-massive-crowds-continue-at-penn-station/">(Smith, 2020)</a>
 
 ## Inspiration
 NJ Transit is the largest statewide public transportation system in the United States, operating bus, light rail, and commuter rail across New Jersey. Its nation's second-largest commuter rail network has 162 rail stations and serves over 300,000 customers every day. The real network connects the state's main business and employment centers and also helps to link the state to adjacent cities like Philadelphia and New York City. 
