@@ -1,13 +1,4 @@
----
-title: "Introduction & Background"
-date: 2021-12-20
-categories:
-  - blog
-tags:
-  - Github Page
-  - update
-excerpt: "Inspiration of the project."
----
+# Link of the Website: https://penelope0318.github.io/NJ_Transit_Train_Delay/
 
 ![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/us_njtransit_nec.jpeg)
 
