@@ -10,7 +10,7 @@ altair-loader:
   altair-chart-3: "charts/station_lag_alt.json"
   altair-chart-4: "charts/station_time_heatmap1.json"
 hv-loader:
-  hv-chart-1: "charts/hv_table.html"
+  hv-chart-1: ["charts/hv_table.html","500"]
 toc: true
 toc_sticky: true
 ---
