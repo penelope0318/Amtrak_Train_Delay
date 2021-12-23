@@ -35,8 +35,10 @@ There is an origin-destination train delay and cancelation data for NJ transit a
 
 ## Content
 The project will be seperated into following 2 sections:
-- **Exploratory analysis**: when, where  did the delay usually happen? 
-- **Modeling**: methods involving feature engineering, model selection, cross-validation. 
+- **Exploratory analysis**: <a href="https://penelope0318.github.io/NJ_Transit_Train_Delay/3when_delay/">when</a>, <a href="https://penelope0318.github.io/NJ_Transit_Train_Delay/2where_delay/">where</a>  did the delay usually happen? 
+
+
+- **Modeling**:  <a href="https://penelope0318.github.io/NJ_Transit_Train_Delay/1model/">Methods</a> involving feature engineering, model selection, cross-validation. 
 
   
 
