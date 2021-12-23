@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Analysis"
+title: "Exploratory Analysis - When delay"
 date: 2021-12-20
 published: true
 tags: [dataviz, altair, folium]
@@ -9,9 +9,6 @@ altair-loader:
   altair-chart-2: "charts/weekday_time_alt.json"
   altair-chart-3: "charts/station_lag_alt.json"
   altair-chart-4: "charts/station_time_heatmap1.json"
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "500"]
-  folium-chart-2: ["charts/line_foliumChart.html", "500"]
 toc: true
 toc_sticky: true
 ---
