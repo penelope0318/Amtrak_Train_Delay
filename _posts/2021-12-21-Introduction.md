@@ -30,7 +30,7 @@ Delay in NYC Penn Station on Feb.3, 2020 <a href="https://pix11.com/news/local-n
  
 
 ## Main Dataset
-There is an origin-destination train delay and cancelation data for NJ transit and Amtrak on <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. We used 2018 November and December delay data to analysis the pattern of delay and then built a machine learning model to predict the future delay. 
+There is an origin-destination train delay and cancelation data for NJ transit and Amtrak on <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. We used 2018 November and December delay data to analyze the pattern of delay and then built a machine learning model to predict the future delay. 
 
 
 
