@@ -20,7 +20,7 @@ toc_sticky: true
 
 Here is a glimpse of the original dataset from <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. We selected the data in 11/2019 and 12/2019, totaling 682,163 rows. To clean the data, we dropped any rows with NA values in the `scheduled_time`, `delay_minutes`, `from_id`, `to_id` columns. Additionally, in order to focus on the issue of punctuality , we decided to drop any records labelled as `cancelation`, as this is distinct from the issue of delay in some extent. The final cleaned dataset has 436,100 records in total. To gain a geographical perspective on the delay, the dataset was combined with the stations' location data from <a href="https://github.com/pranavbadami/njtransit">Pranav Badami</a>. 
 <div id="hv-chart-1"></div>
-test
+test2
 
 
 ## 1. Statistic Summary 
