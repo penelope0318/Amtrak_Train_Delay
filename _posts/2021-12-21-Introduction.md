@@ -6,6 +6,7 @@ categories:
 tags:
   - Github Page
   - update
+excerpt: "Inspiration of the project."
 ---
 
 ![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/us_njtransit_nec.jpeg)
