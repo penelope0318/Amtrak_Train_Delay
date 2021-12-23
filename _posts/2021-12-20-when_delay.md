@@ -9,22 +9,24 @@ altair-loader:
   altair-chart-2: "charts/weekday_time_alt.json"
   altair-chart-3: "charts/station_lag_alt.json"
   altair-chart-4: "charts/station_time_heatmap1.json"
+hv-loader:
+  hv-chart-1: "charts/hv_table.html"
 toc: true
 toc_sticky: true
 ---
 ![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/us_njtransit_nec.jpeg)
 
 ## 0. Data Preparation
--------- 尝试加表格
-Here is a glimpse of the original dataset from <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. We selected the data in 11/2019 and 12/2019, totaling 682,163 rows. To clean the data, we dropped any rows with NA values in the `scheduled_time`, `delay_minutes`, `from_id`, `to_id` columns. Additionally, in order to focus on the issue of punctuality , we decided to drop any records labelled as `cancelation`, as this is distinct from the issue of delay in some extent. The final cleaned dataset has 436,100 records in total. To gain a geographical perspective on the delay, the dataset was combined with the stations' location data from <a href="https://github.com/pranavbadami/njtransit">Pranav Badami</a>. 
 
+Here is a glimpse of the original dataset from <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. We selected the data in 11/2019 and 12/2019, totaling 682,163 rows. To clean the data, we dropped any rows with NA values in the `scheduled_time`, `delay_minutes`, `from_id`, `to_id` columns. Additionally, in order to focus on the issue of punctuality , we decided to drop any records labelled as `cancelation`, as this is distinct from the issue of delay in some extent. The final cleaned dataset has 436,100 records in total. To gain a geographical perspective on the delay, the dataset was combined with the stations' location data from <a href="https://github.com/pranavbadami/njtransit">Pranav Badami</a>. 
+<div id="hv-chart-1"></div>
 
 
 ## 1. Statistic Summary 
 
 These histograms illustrate the substantially left-skewed distribution of train delays in NJ transit's commute rail services in 2019 November and December. The bulk of the delay (97% ）events was spaned from **0 min to 20 min**, however, there is an extremely long tail in the data, which reveals that approximately 50 travels (0.016%) are suffering from more than 100 minutes delay.
 ![delay_distribution](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/delay_distribution.png)
------------------标记median num
+
 
 As delays can happen for a variety of reasons, the following parts will focus on the analysis about when and where did the delay typically happen.
 
