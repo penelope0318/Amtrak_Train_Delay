@@ -10,7 +10,7 @@ altair-loader:
   altair-chart-3: "charts/station_lag_alt.json"
   altair-chart-4: "charts/station_time_heatmap1.json"
 hv-loader:
-  hv-chart-1: ["charts/hv_table.html","500"]
+  hv-chart-1: ["charts/hv_table.html","300"]
 toc: true
 toc_sticky: true
 ---
@@ -20,7 +20,6 @@ toc_sticky: true
 
 Here is a glimpse of the original dataset from <a href="https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv">Kaggle</a>. We selected the data in 11/2019 and 12/2019, totaling 682,163 rows. To clean the data, we dropped any rows with NA values in the `scheduled_time`, `delay_minutes`, `from_id`, `to_id` columns. Additionally, in order to focus on the issue of punctuality , we decided to drop any records labelled as `cancelation`, as this is distinct from the issue of delay in some extent. The final cleaned dataset has 436,100 records in total. To gain a geographical perspective on the delay, the dataset was combined with the stations' location data from <a href="https://github.com/pranavbadami/njtransit">Pranav Badami</a>. 
 <div id="hv-chart-1"></div>
-test2
 
 
 ## 1. Statistic Summary 
@@ -53,11 +52,9 @@ Another issue of this weather data is that about 15% of records are NA, in order
 
 The following series of plots try to visualize the relationship between weather and the percentage of delay greater than 5mins; it indicates that when `fog`, `ice pellets`, `haze` and large `precipitation` occur, the percentage of delay greater than 5mins is higher than under regular weather conditions. 
 
+<img src="https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/weather_bar.png" width="550" height="150" />
 
-![weather_bar](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/weather_bar.png)
-
-![weather_line](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/weather_line.png)
-
+<img src="https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/weather_line.png" width="550" height="300" />
 
 
 
